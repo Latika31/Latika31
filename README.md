@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Latika31
 - 👀 I’m interested in Traveling and Dancing
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on HTML, CSS, C
+- 💞️ I’m looking to collaborate on HTML, CSS, C, Python, SQL, BigData
 - 📫 You can reach me using my mail: latika200131@gmail.com
 
 <!---
